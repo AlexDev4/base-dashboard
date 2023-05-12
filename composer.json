@@ -1,0 +1,27 @@
+{
+  "name": "aol/module-base-dashboard",
+  "description": "Base module to get AOL's Magento 2 modules",
+  "type": "magento2-module",
+  "version": "1.0.0",
+  "license": [
+    "GNU General Public License v3.0"
+  ],
+  "authors": [
+    {
+      "name": "Alexis AOL OLIVE",
+      "email": "alexis-olive@live.fr",
+      "homepage": "alexis-olive-developpeur.fr",
+      "role": "Developper"
+    }
+  ],
+  "require": {
+    "php": "~8.0.0",
+    "magento/framework": "~103.0.6"
+  },
+  "autoload": {
+    "files": [ "registration.php" ],
+    "psr-4": {
+      "Magento\\SampleNewPage\\": ""
+    }
+  }
+}
