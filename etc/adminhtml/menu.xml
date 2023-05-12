@@ -2,6 +2,5 @@
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
 <menu>
     <add id="AOL_Dashboard::aol" title="AOL" module="AOL_Dashboard" sortOrder="10" resource="AOL_Dashboard::aol"/>
-    <add id="AOL_Gamification" title="Gamification" module="AOL_Gamification" sortOrder="10" parent="AOL_Dashboard::aol" resource="AOL_Gamification::gamification" action="AOL_Gamification/post"/>
 </menu>
 </config>
