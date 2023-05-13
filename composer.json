@@ -1,5 +1,5 @@
 {
-  "name": "aol/module-base-dashboard",
+  "name": "alexdev4/module-base-dashboard",
   "description": "Base module to get AOL's Magento 2 modules",
   "type": "magento2-module",
   "version": "1.0.0",
