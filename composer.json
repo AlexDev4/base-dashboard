@@ -1,6 +1,6 @@
 {
-  "name": "Histomagento/module-base-dashboard",
-  "description": "Base module to get Histomagento's Magento 2 modules",
+  "name": "histomagento/module-base-dashboard",
+  "description": "Base module to get histomagento's Magento 2 modules",
   "type": "magento2-module",
   "version": "1.0.0",
   "license": [
