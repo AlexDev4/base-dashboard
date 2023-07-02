@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
 <menu>
-    <add id="AOL_Dashboard::aol" title="AOL" module="AOL_Dashboard" sortOrder="10" resource="AOL_Dashboard::aol"/>
+    <add id="Histomagento_Dashboard::aol" title="Histomagento" module="Histomagento_Dashboard" sortOrder="10" resource="Histomagento_Dashboard::aol"/>
 </menu>
 </config>
