@@ -15,8 +15,6 @@
     }
   ],
   "require": {
-    "php": "^8.0",
-    "magento/framework": "~103.0.6"
   },
   "autoload": {
     "files": [ "registration.php" ],
