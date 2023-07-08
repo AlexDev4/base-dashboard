@@ -23,5 +23,5 @@
       "Magento\\SampleNewPage\\": ""
     }
   }
-  "minimum-stability": "stable"
+    "minimum-stability": "stable"
 }
