@@ -4,3 +4,6 @@
     margin: 0 auto;
     width: 31px;
 }
+.admin__menu .level-0.item-histomagento > a {
+    font-size:9px;
+}
